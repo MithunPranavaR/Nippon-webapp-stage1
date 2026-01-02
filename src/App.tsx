@@ -5,6 +5,7 @@ import { Newsletter } from "@/sections/Newsletter";
 import { Footer } from "@/sections/Footer";
 import { FloatingActions } from "@/sections/FloatingActions";
 import { MobileAppPrompt } from "@/sections/MobileAppPrompt";
+import "./styles/tailwind.css";
 
 export const App = () => {
   return (
